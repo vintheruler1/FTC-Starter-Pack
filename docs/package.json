@@ -1,0 +1,19 @@
+{
+  "name": "FTC-Starter-Pack",
+  "version": "0.0.1",
+  "description": "FTC Starter Pack and some documentation from the offical ftc docs",
+  "main": "index.js",
+  "authors": {
+    "name": "Vinesh R.",
+    "email": "greasedlightningrobotics@gmail.com"
+  },
+  "repository": "https://github.com/vintheruler1/FTC-Starter-Pack//FTC-Starter-Pack",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
