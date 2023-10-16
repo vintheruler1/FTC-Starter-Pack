@@ -1,5 +1,7 @@
 # FTC Starter Pack
 
+<img src="https://github.com/vintheruler1/FTC-Starter-Pack/blob/main/images/Banner.png?raw=true">
+
 ## Getting Started
 
 This FTC starter pack was mainly used to teach the team 5467 how to code during FTC Centerstage. So this will be using SDK and FTC Robot Controller version 9.0.1.
