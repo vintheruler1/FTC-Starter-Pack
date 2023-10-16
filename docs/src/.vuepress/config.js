@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'FTC Starter Pack',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,16 +34,20 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Tutorial',
+        link: '/tutorial/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'FTC Documentation',
+        link: '/ftcdoc/',
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'FAQ',
+        link: '/faq/'
+      },
+      {
+        text: 'CBHS Robotics',
+        link: 'https://cbhsrobotics.com'
       }
     ],
     sidebar: {
