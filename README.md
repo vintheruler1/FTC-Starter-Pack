@@ -14,7 +14,8 @@ Java 8 is also required. You can download it [here](https://www.oracle.com/techn
 
 First, you will need to download the starter pack. You can do this by clicking the green button that says "Clone or download" and then click "Download ZIP".
 
-![alt text](https://github.com/vintheruler1/FTC-Starter-Pack/blob/main/images/github_clone.png?raw=true =210x192)
+![alt text]( =210x192)
+![img|210x192,100%]([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/vintheruler1/FTC-Starter-Pack/blob/main/images/github_clone.png?raw=true))
 
 Then, you will need to unzip the file. You can do this by right clicking the file and clicking "Extract All".
 
