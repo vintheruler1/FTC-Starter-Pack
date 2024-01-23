@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
-@com.qualcomm.robotcore.eventloop.opmode.TeleOp(name="MecanumDriveOpMode", group="Linear Opmode")
+@TeleOp(name="MecanumDriveOpMode", group="Linear Opmode")
 public class MecanumDriveOpMode extends LinearOpMode {
 
     private ElapsedTime runtime = new ElapsedTime();
